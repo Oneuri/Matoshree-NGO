@@ -1,4 +1,7 @@
 # Matoshree-NGO
+Matoshree vruddhashram is an Old Age Home located at a very beautiful place in Latur, Maharashtra.
+This vruddhashram is a part of the chain of Matoshree NGO faunded by Mr. balasaheb Thakrey in 1998. 
+So to help the elderly, we thought to make this website which
 
 ![slq](https://user-images.githubusercontent.com/59758205/91667231-8e790c80-eb20-11ea-8a00-843bf0bcfef5.PNG)
 ![sl2](https://user-images.githubusercontent.com/59758205/91667233-95078400-eb20-11ea-84f6-69bbd2401230.PNG)
