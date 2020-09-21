@@ -6,7 +6,7 @@ The golden age
  But in today's world, due to various problems and nuclear family system, aged parents are regarded as burden by many sons and daughters. I myself have seen many of my friend's grandparents being put in an old age home. I've had always thought about helping them and this lock down gave me an opportunity to do so. 
 I came up with an idea of making a website for an old age home in my area named ' MATOSHREE WRUDHASHRAM ' . It will not only help the NGO to reach out to people but also can give the detailed information about the people living here. Also, it embodies all the information about the staff members working in the old age home. 
 I hope it helps in maintaining the records and smooth functioning of the NGO and also can make life of old people happy and enjoyable. 
- ____________Thank you!!!
+
 .
 .
 .
